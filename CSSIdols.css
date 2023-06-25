@@ -1,0 +1,270 @@
+.StyleDivHistoria{
+    color: #001838;
+    margin-top:-2.5%;
+    margin-left: -0.5%;
+    height: 70px;
+    width: 101%;
+    background-color: #7DBDF0;
+    transition: transform 1s;
+    
+}
+.StyleDivHistoria:hover{
+    transform: translateX(10px) scale(1.2);
+}
+@font-face {
+    font-family: Manchester;
+    src: url(bignoodletitling/big_noodle_titling.ttf)
+    
+  }
+  
+h1{
+    font: bold 70px Manchester, sans-serif;
+}
+
+h2{
+    font: bold 55px Manchester, sans-serif;
+    margin-left: 14%;
+    color: #7DBDF0;
+}
+
+h3{
+    font: bold 55px Manchester, sans-serif;
+    margin-left: 14%;
+    color: #7DBDF0;
+}
+
+h4{
+    font: bold 55px Manchester, sans-serif;
+    margin-left: 14%;
+    color: #7DBDF0;
+}
+
+h5{
+    font: bold 55px Manchester, sans-serif;
+    margin-left: 14%;
+    color: #7DBDF0;
+}
+
+h6{
+    font: bold 55px Manchester, sans-serif;
+    margin-left: 14%;
+    color: #7DBDF0;
+}
+
+h7{
+    font: bold 55px Manchester, sans-serif;
+    margin-left: 14%;
+    color: #7DBDF0;
+}
+
+h8{
+    font: bold 55px Manchester, sans-serif;
+    margin-left: 14%;
+    color: #7DBDF0;
+}
+
+h9{
+    font: bold 55px Manchester, sans-serif;
+    margin-left: 14%;
+    color: #7DBDF0;
+}
+
+h10{
+    font: bold 55px Manchester, sans-serif;
+    margin-left: 14%;
+    color: #7DBDF0;
+}
+
+h11{
+    font: bold 55px Manchester, sans-serif;
+    margin-left: 14%;
+    color: #7DBDF0;
+}
+
+.BlockOpHistoria{
+    background-color: #7DBDF0;
+    height: 647rem;
+    width: 10%;
+    margin-left: -0.43%;
+    transition: transform 1s;
+    margin-top:-557.65%;
+}
+
+.BlockOpHistoria:hover{
+    backdrop-filter: blur(4px);
+    -webkit-backdrop-filter: blur(4px);
+    -moz-backdrop-filter: blur(4px);
+}
+.button {
+    font: bold 140px Manchester, sans-serif;
+    background-color: gold;
+    border: none;
+    color: #001838;
+    padding: 10px 50px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 8px 15px;
+    cursor: pointer;
+    border-radius: 40px;
+    margin-top:10%;
+}
+
+.button:hover {
+    background-color: goldenrod;
+    box-shadow: 0 5px #001838   ;
+    transform: translateY(4px);
+}
+
+.bottom {
+    font: bold 140px Manchester, sans-serif;
+    background-color: gold;
+    border: none;
+    color: #001838;
+    padding: 10px 55px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 8px 15px;
+    cursor: pointer;
+    border-radius: 40px;
+    margin-top:10%;
+}
+
+.bottom:hover {
+    background-color: goldenrod;
+    box-shadow: 0 5px #001838   ;
+    transform: translateY(4px);
+}
+
+.battom {
+    font: bold 140px Manchester, sans-serif;
+    background-color: gold;
+    border: none;
+    color: #001838;
+    padding: 10px 43px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 8px 15px;
+    cursor: pointer;
+    border-radius: 40px;
+    margin-top:10%;
+}
+
+.battom:hover {
+    background-color: goldenrod;
+    box-shadow: 0 5px #001838   ;
+    transform: translateY(4px);
+}
+
+.pattom {
+    font: bold 140px Manchester, sans-serif;
+    background-color: gold;
+    border: none;
+    color: #001838;
+    padding: 10px 48px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 8px 15px;
+    cursor: pointer;
+    border-radius: 40px;
+    margin-top:10%;
+}
+
+.pattom:hover {
+    background-color: goldenrod;
+    box-shadow: 0 5px #001838   ;
+    transform: translateY(4px);
+}
+
+.iconDiv{
+    margin-top: 150%;
+    height: 7.42rem;
+    margin-left: 18%;
+}
+
+.lee{
+    height: 30rem;
+    margin-top: -2%;
+    margin-left: 14%;
+    border-radius: 5%;
+}
+
+.silva{
+    height: 32rem;
+    margin-top: -2%;
+    margin-left: 14%;
+    border-radius: 5%;
+}
+
+.yaya{
+    height: 32rem;
+    margin-top: -2%;
+    margin-left: 14%;
+    border-radius: 5%;
+}
+
+.billy{
+    height: 25.5rem;
+    margin-top: -2%;
+    margin-left: 14%;
+    border-radius: 5%;
+}
+
+.vincent{
+    height: 30rem;
+    margin-top: -2%;
+    margin-left: 14%;
+    border-radius: 5%;
+}
+
+.fer{
+    height: 25rem;
+    margin-top: 5%;
+    margin-left: 14%;
+    border-radius: 5%;
+}
+
+.DeB{
+    height: 25rem;
+    margin-top: 5%;
+    margin-left: 14%;
+    border-radius: 5%;
+}
+
+.H9{
+    height: 31rem;
+    margin-top: 5%;
+    margin-left: 14%;
+    border-radius: 5%;
+}
+
+.ED{
+    height: 29.5rem;
+    margin-top: 5%;
+    margin-left: 14%;
+    border-radius: 5%;
+}
+
+.arrastar{
+    margin-left: 14%;
+}
+
+.KUN{
+    height: 28rem;
+    margin-top: 5%;
+    margin-left: 14%;
+    border-radius: 5%;
+}
+
+p{
+    font:28px Manchester, sans-serif;
+    margin-left: 13%;
+    width: 47rem;
+}

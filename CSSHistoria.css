@@ -1,0 +1,130 @@
+.StyleDivHistoria{
+    color: #001838;
+    margin-top:-2.52%;
+    margin-left: -0.5%;
+    height: 70px;
+    width: 101%;
+    background-color: #7DBDF0;
+    transition: transform 1s;
+    
+}
+.StyleDivHistoria:hover{
+    transform: translateX(10px) scale(1.2);
+}
+@font-face {
+    font-family: Manchester;
+    src: url(bignoodletitling/big_noodle_titling.ttf)
+    
+  }
+  
+h1{
+    font: bold 70px Manchester, sans-serif;
+}
+
+p{
+    font:30px Manchester, sans-serif;
+    margin-left: 13rem;
+}
+
+.BlockOpHistoria{
+    background-color: #7DBDF0;
+    height: 56.8rem;
+    width: 10%;
+    margin-left: -0.43%;
+    transition: transform 1s;
+    margin-top:-39.3%;
+}
+
+.button {
+    font: bold 140px Manchester, sans-serif;
+    background-color: gold;
+    border: none;
+    color: #001838;
+    padding: 10px 50px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 8px 15px;
+    cursor: pointer;
+    border-radius: 40px;
+    margin-top:10%;
+}
+
+.button:hover {
+    background-color: goldenrod;
+    box-shadow: 0 5px #001838   ;
+    transform: translateY(4px);
+}
+
+.bottom {
+    font: bold 140px Manchester, sans-serif;
+    background-color: gold;
+    border: none;
+    color: #001838;
+    padding: 10px 55px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 8px 15px;
+    cursor: pointer;
+    border-radius: 40px;
+    margin-top:10%;
+}
+
+.bottom:hover {
+    background-color: goldenrod;
+    box-shadow: 0 5px #001838   ;
+    transform: translateY(4px);
+}
+
+.battom {
+    font: bold 140px Manchester, sans-serif;
+    background-color: gold;
+    border: none;
+    color: #001838;
+    padding: 10px 43px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 8px 15px;
+    cursor: pointer;
+    border-radius: 40px;
+    margin-top:10%;
+}
+
+.battom:hover {
+    background-color: goldenrod;
+    box-shadow: 0 5px #001838   ;
+    transform: translateY(4px);
+}
+
+.pattom {
+    font: bold 140px Manchester, sans-serif;
+    background-color: gold;
+    border: none;
+    color: #001838;
+    padding: 10px 48px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 8px 15px;
+    cursor: pointer;
+    border-radius: 40px;
+    margin-top:10%;
+}
+
+.pattom:hover {
+    background-color: goldenrod;
+    box-shadow: 0 5px #001838   ;
+    transform: translateY(4px);
+}
+
+.iconDiv{
+    margin-top: 150%;
+    height: 13%;
+    margin-left: 18%;
+}

@@ -1,0 +1,57 @@
+body{
+    background-image: url(Images/Manchester_City_Football_Club.png);
+    background-size: cover;
+    background-size: 30%;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+}
+.StyleDiv2{
+    color: #001838;
+    margin-top:-2.5%;
+    margin-left: -0.5%;
+    height: 70px;
+    width: 101%;
+    background-color: #7DBDF0;
+    transition: transform 1s;
+    
+}
+.StyleDiv2:hover{
+    transform: translateX(10px) scale(1.2);
+}
+@font-face {
+    font-family: Manchester;
+    src: url(bignoodletitling/big_noodle_titling.ttf)
+    
+  }
+  
+h1{
+    font: bold 70px Manchester, sans-serif;
+}
+
+h2{
+    font: bold 60px Manchester, sans-serif;
+    margin-top: -2px;
+}
+
+p{
+    font: bold 30px Manchester, sans-serif;
+    margin-top: -50px;
+}
+
+video{
+    margin-top: -2%;
+    height: 25rem;
+    width: 35%;
+}
+
+.BlockOp2{
+    background-color: rgba(255, 255, 255, 0);
+    height: 40rem;
+    width: 35%;
+    margin-top: -20%;
+    margin-left: 35%;
+    backdrop-filter: blur(4px);
+    -webkit-backdrop-filter: blur(4px);
+    -moz-backdrop-filter: blur(4px);
+}
